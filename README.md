@@ -8,3 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=TeamAnarchyDev&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TeamAnarchyDev&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamAnarchyDev&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# ⭐ Développeur:
+- <a href="https://github.com/Azk0rn" title="Lien GitHub Shimotsuki">Shimotsuki</a>
