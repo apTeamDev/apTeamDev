@@ -10,4 +10,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamAnarchyDev&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # ⭐ Développeur:
-- [Main Team | Owner] <a href="https://github.com/Azk0rn" title="Lien GitHub Shimotsuki">Shimotsuki</a>
+- [Main Team | Owner] <a href="https://github.com/Azk0rn" title="Lien GitHub Shimotsuki">🔰 ~ Shimotsuki</a>
+- [CM | Developpeur] <a href="https://github.com/apTeamDev" title="Lien GitHub Pomme">🍎 ~ Pomme</a>
